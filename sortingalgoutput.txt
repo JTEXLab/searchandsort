@@ -1,0 +1,14 @@
+Sorting array of size: 1000
+Time taken: 0.00114 seconds
+
+Sorting array of size: 5000
+Time taken: 0.00623 seconds
+
+Sorting array of size: 10000
+Time taken: 0.01354 seconds
+
+Sorting array of size: 50000
+Time taken: 0.07856 seconds
+
+Sorting array of size: 100000
+Time taken: 0.17434 seconds
